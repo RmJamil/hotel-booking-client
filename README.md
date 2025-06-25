@@ -1,5 +1,5 @@
-<h1>Jecoton App Store</h1>
-<h3>This is a carbon copy of google playstore</h3>
+<h1>Hotel Jeal</h1>
+<h3>Book a room to relax</h3>
 <p>Visitors can download their desired apps and post reviews as well. An app developer can add their apps to this website.</p>
 
 <img src="https://i.postimg.cc/Y0vZJ64T/appstore.png" width="800px" height="700px"/>
