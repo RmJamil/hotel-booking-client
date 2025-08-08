@@ -5,6 +5,7 @@
 <hr/>
 
 <img src="https://i.postimg.cc/VkDzXR8c/ho.png" width="800px" height="700px"/>
+<hr/>
 <h2>Main Technologies</h2>
 <ol>
   <li>React</li>
