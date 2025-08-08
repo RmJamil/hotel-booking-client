@@ -2,6 +2,7 @@
 <h3>Book a room to relax</h3>
 <h3>Project Overview :</h3>
 <p>Visitors can book their hotel room on their desired date if room is available.</p>
+<hr/>
 
 <img src="https://i.postimg.cc/VkDzXR8c/ho.png" width="800px" height="700px"/>
 <h2>Main Technologies</h2>
