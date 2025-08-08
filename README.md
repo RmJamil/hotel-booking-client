@@ -1,6 +1,6 @@
 <h1>Hotel Jeal</h1>
 <h3>Book a room to relax</h3>
-<p>Visitors can download their desired apps and post reviews as well. An app developer can add their apps to this website.</p>
+<p>Visitors can book their hotel room on their desired date if room is available.</p>
 
 <img src="https://i.postimg.cc/VkDzXR8c/ho.png" width="800px" height="700px"/>
 <h2>Main Technologies</h2>
