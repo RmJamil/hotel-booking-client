@@ -36,4 +36,4 @@
 <p> In order to run any code in a Github repository, you will need to either download it or clone it to your machine. Click the green "clone or download repository" button on the top right of the repository. In order to clone, you will need to have git installed on your computer. Then, follow these instructions. You could also just click download. Once you have it on your machine, how you run the code will depend on you.</p>
 
 <h2>Live Link</h2>
-<a href="https://app-store-e057c.web.app">appstore</a>
+<a href="https://app-store-e057c.web.app">Hotel Jeal</a>
